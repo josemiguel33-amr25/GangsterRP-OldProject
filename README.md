@@ -6,7 +6,7 @@ This is a Fivem Server that i made with my friends. (ESX Legacy) (2 years ago)
 ** This repository works for me to save my old projects
 ** The server is probably obsolete now but you can grab the script that you want and see what i did
 ** Streams file are not in because it is 25 gb
-
+** Probably i miss a lot of files because github is so slow
 Feel free to use
 If you want to use please set up the server cfg and download the basic Fivem Gamemode files (fxserver)
  
