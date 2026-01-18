@@ -8,4 +8,5 @@ This is a Fivem Server that i made with my friends. (ESX Legacy) (2 years ago)
 ** Streams file are not in because it is 25 gb
 
 Feel free to use
-If you want to use please set up the server cfg
+If you want to use please set up the server cfg and download the basic Fivem Gamemode files (fxserver)
+ 
