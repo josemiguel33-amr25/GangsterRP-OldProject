@@ -1,0 +1,2 @@
+This is the Donators system that allow the user to get Real Money things ingame
+Is a simple "vip money" script and a ped menu
