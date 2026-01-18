@@ -1,0 +1,3 @@
+Fully functional admin system working with onesync ( Not tested in infinity) :)
+Two scripts
+tpm and the admin menu
