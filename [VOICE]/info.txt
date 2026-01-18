@@ -1,0 +1,2 @@
+My server voice system.
+Fully functional and compatible with all onesync types (i dont test in infinity)
